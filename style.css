@@ -1,0 +1,57 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.container{
+    width:600px;
+    height:300px;
+    margin: 30px auto;
+    background-color: lightgray;
+
+}
+#area{
+    height:50px;
+    width:600px;
+    padding:10px;
+    margin-top:30px;
+    text-align: center;
+    font-size: large;
+
+}
+#update{
+   height:30px;
+   width:84px;
+   padding:5px;
+   margin:15px;
+}
+#enterFirst{
+    height:30px;
+    width:84px;
+    padding:5px;
+    margin:15px;
+}
+#enterLast{
+    height:30px;
+    width:84px;
+    padding:5px;
+    margin:15px;
+}
+#deleteFirst{
+    height:30px;
+    width:84px;
+    padding:5px;
+    margin:15px;
+}
+#deleteLast{
+    height:30px;
+    width:84px;
+    padding:5px;
+    margin:15px;
+}
+#number{
+    height:30px;
+    width:200px;
+    padding:5px;
+    margin:10px 30%;
+}
